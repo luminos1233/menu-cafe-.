@@ -1,2 +1,2 @@
-# menu-cafe-.
-ino-coffe-menu .
+# ino-caffe-menu .
+menu-caffe .
